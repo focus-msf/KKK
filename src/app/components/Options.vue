@@ -26,7 +26,7 @@ export default {
 
   methods: {
     getDate(val) {
-      console.log(val)
+      this.$store.dispatch('getKlines',val);
     }
   }
 }

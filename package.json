@@ -1,8 +1,8 @@
 {
-  "name": "calendar_app",
-  "description": "Project Two: Calendar App",
+  "name": "kkk",
+  "description": "板块联动",
   "version": "1.0.0",
-  "author": "Fullstack.io",
+  "author": "Marshall Fate",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
